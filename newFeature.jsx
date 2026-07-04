@@ -1,0 +1,3 @@
+new array.forEach(element => {
+  
+});
